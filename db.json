@@ -1,0 +1,29 @@
+{
+  "cursos": [
+    {
+      "duracao": "60 Horas",
+      "linguagem": "PHP",
+      "id": 1
+    },
+    {
+      "duracao": "60 Horas",
+      "linguagem": "JavaScript",
+      "id": 2
+    },
+    {
+      "duracao": "10 Horas",
+      "linguagem": "HTML",
+      "id": 3
+    },
+    {
+      "duracao": "20 Horas",
+      "linguagem": "CSS",
+      "id": 4
+    },
+    {
+      "duracao": "40 Horas",
+      "linguagem": "Lógica de Programação",
+      "id": 5
+    }
+  ]
+}
